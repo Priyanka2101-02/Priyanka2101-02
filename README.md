@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Priyanka Takale</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="coding" width="200" src="https://media2.giphy.com/media/R03zWv5p1oNSQd91EP/200w.webp?cid=ecf05e47zdkx4n55yutf7jl98ofjc4ycbnb077ig6eluv1x1&ep=v1_gifs_search&rid=200w.webp&ct=g">
+<img align="right" alt="coding" width="180" src="https://media2.giphy.com/media/R03zWv5p1oNSQd91EP/200w.webp?cid=ecf05e47zdkx4n55yutf7jl98ofjc4ycbnb077ig6eluv1x1&ep=v1_gifs_search&rid=200w.webp&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka2101-02&label=Profile%20views&color=0e75b6&style=flat" alt="priyanka2101-02" /> </p>
 
