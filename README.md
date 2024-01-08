@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanka2101-02" alt="priyanka2101-02" /></a> </p>
 <img align="right" alt="coding1" width="200" src="https://media1.giphy.com/media/USV0ym3bVWQJJmNu3N/200w.webp?cid=ecf05e47zdkx4n55yutf7jl98ofjc4ycbnb077ig6eluv1x1&ep=v1_gifs_search&rid=200w.webp&ct=g">
 
-- 🌱 I’m currently learning **Java Full Stack**
+- 🌱 Completed 6th Month of **Java Full Stack** Course
 
 - 💬 Ask me about **Core Java, HTML, CSS**
 
