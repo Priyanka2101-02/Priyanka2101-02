@@ -7,7 +7,7 @@
 
 - 🌱 Completed 6th Month of **Java Full Stack** Course
 
-- 💬 Ask me about **Core Java, HTML, CSS**
+- 💬 Ask me about **Core Java, HTML, CSS, Python, MS SQL, MySQL, Azure basics**
 
 - 📫 How to reach me **priyankatakale211@gmail.com**
 
